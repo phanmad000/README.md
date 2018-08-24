@@ -2,5 +2,5 @@
 ###### With Madi
 
 ##### Links
-* [Course Description] (https://github.com/phanmad000/Course-Description.md.git)
-* [Syllabus} (https://github.com/phanmad000/IB-CS-DP--syllabus.md.git)
+* [Course Description] (https://phanmad000.github.io/Course-Description)
+* [Syllabus] (https://phanmad000.github.io/IB-CS-DP--syllabus)
